@@ -1,5 +1,5 @@
 # 💫 About Me:
-### About Me<br><br>Hi there! 👋<br><br>I'm **Yassine**, an enthusiastic **Embedded Computer Engineering student** with a deep passion for:<br><br>- **IoT systems**  <br>- **Robotics**  <br>- **Embedded programming**<br><br>With over a year of experience in **Python** and extensive work on **Arduino** and **MicroPython projects**, I enjoy building smart, efficient solutions that merge hardware with software.<br><br>I’m skilled in:<br><br>- **Network service management**  <br>- Growing expertise in **database systems**, **web development**, and **cloud technologies**<br><br>I’m always looking to expand my knowledge and collaborate on innovative projects that push the boundaries of what’s possible in technology.<br><br>Let's connect and share ideas!<br>
+### About Me<br><br>Hi there! 👋<br><br>I'm **Yassine**, an enthusiastic **Embedded Computer Engineering student** with a deep passion for:<br><br>- **IoT systems**  <br>- **Robotics** <br>- **Cyber Security & Networking**<br><br>With over a year of experience in **Python** and extensive work on **Arduino** and **MicroPython projects**, I enjoy building smart, efficient solutions that merge hardware with software.<br><br>I’m skilled in:<br><br>- **Network service management**  <br>- Growing expertise in **database systems**, **web development**, and **cloud technologies**<br><br>I’m always looking to expand my knowledge and collaborate on innovative projects that push the boundaries of what’s possible in technology.<br><br>Let's connect and share ideas!<br>
 
 
 ## 🌐 Socials:
@@ -12,8 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yakomunatio&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yakomunatio&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+### Quote
+> *"Hackers don't care how beautiful your code is"*  
+> ~ Anonymous
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yakomunatio&icon=0&color=0)](https://visitcount.itsvg.in)
